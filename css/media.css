@@ -1,8 +1,8 @@
 @media (max-width: 1140px) {
-
     .header {
-            background-image: url('../image/header/header-bg.jpg');
-        }
+        background-image: url('../image/header/header-bg.jpg');
+    }
+
 
     .card {
         width: calc(50% - 15px);
@@ -30,6 +30,7 @@
 
 
 @media (max-width: 760px) {
+    
 
    .header-title {
      font-size: 32px;
